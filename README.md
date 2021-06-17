@@ -22,3 +22,5 @@ Several models were used to predict the outcome of the tournament. A Decision Tr
 Finally we present our tournament bracket. I have included the actual bracket for the tournament for reference. You will note some obvious disparities. Clearly success in the tournament remains somewhat of a mystery.
 
 ![Picture7](https://user-images.githubusercontent.com/61364738/122485556-3d4de280-cfa5-11eb-9e88-9e45893663d4.png)
+
+![Capture](https://user-images.githubusercontent.com/61364738/122485744-a7ff1e00-cfa5-11eb-84ff-d9093be841fd.PNG)
